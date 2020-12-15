@@ -1,5 +1,5 @@
 # Linked Lists
-This program allows you to make and modify **linked lists** in Ruby. There is a live version on [replt.it].
+This program allows you to make and modify **linked lists** in Ruby. There is a live version on [replt.it](https://repl.it/@qamk/linked-list-top#README.md).
 
 ## Aim
 A simple aim, I just had to use OOP to make linked lists. It needs to have the same behaviours as a typical linked list. Nothing much to say. On to tasks!
