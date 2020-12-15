@@ -53,7 +53,7 @@ class LinkedList
     return empty if head.nil?
 
     current = head
-    items = 1
+    items = 0
     loop do
       current = current.next
       items += 1
